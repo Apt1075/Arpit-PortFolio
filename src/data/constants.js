@@ -285,7 +285,21 @@ export const projects = [
   ],
   category: "Devops app",
   github: "https://github.com/Apt1075/CICD-React-app-using-jenkins-docker-github-webhook-ubuntu-aws-ec2-.git",
-  webapp: "https://cicd-react-app-using-jenkins-docker.vercel.app/"
+  webapp: "https://cicd-react-app-using-jenkins-docker.vercel.app/",
+ member: [
+      // {
+      //   name: "#",
+      //   img: "",
+      //   linkedin: "#",
+      //   github: "#",
+      // },
+      {
+        name: "Arpit Kumar",
+        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
+        linkedin: "https://www.linkedin.com/in/apt1075/",
+        github: "https://github.com/Apt1075",
+      },
+    ],
 }
 ,
   // {
