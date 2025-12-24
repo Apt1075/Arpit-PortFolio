@@ -158,6 +158,7 @@ const handleSubmit = async (e) => {
       subject: '',
       message: '',
     });
+    form.current.reset();
 
   } catch (error) {
     console.error("EmailJS Error:", error);

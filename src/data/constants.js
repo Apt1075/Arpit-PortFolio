@@ -16,7 +16,7 @@ export const Bio = {
     "I am a dynamic and adaptable Cloud Engineer with a strong passion for designing, deploying, and optimizing cloud-native solutions. With a solid foundation in python, PHP, and backend software development, I build scalable, secure, and efficient cloud applications. I approach every challenge with a growth mindset and a commitment to delivering high-quality results. My portfolio reflects hands-on expertise with cloud services and automation, showcasing my ability to create impactful cloud solutions.",
   github: "https://github.com/Apt1075",
   resume:
-    "https://drive.google.com/file/d/1R2LkQgE79GW5zbW04tCM7m6dYusvK4HB/view?usp=sharing",
+    "https://drive.google.com/file/d/1NCfs_ilMor_ESdRxq4OivHG3oKVTb0pa/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/apt1075/",
   // twitter: "#",
   insta: "https://www.instagram.com/ar.pit_2110/",
@@ -113,6 +113,10 @@ export const skills = [
       {
         name: "Linux",
         image:"https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg",
+      },
+      {
+        name: "Terraform",
+        image:"https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg",
       },
       {
         name: "Jenkins",
